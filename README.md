@@ -7,4 +7,4 @@ I'm a software engineer who is passionate about making contributing to open-sour
 ## Find me around the web 🌎: <a href="https://github.com/sponsors/M0nica"><img align="left" width="150" height="150" src="https://github.com/birrahaile/birrahaile/bira.jpg?raw=true"></a>
 - Learning in public on <a href="https://www.twitch.tv/birrahaile">Twitch</a> or <a href="https://www.bira.com">bira.com</a> 📹 ✍🏾
 - Tinkering with interactions on <a href="https://codepen.io/birrahaile"> Codepen</a> 🏓
-- Sharing updates on <a href="https://www.linkedin.com/in/birrahaile/">LinkedIn</a> 💼
+- Sharing updates on <a href="https://www.linkedin.com/in/birra-haile-37799981/">LinkedIn</a> 💼
