@@ -10,7 +10,7 @@ I'm a software engineer who is passionate about making contributing to open-sour
 - Sharing updates on <a href="https://www.linkedin.com/in/birra-haile-37799981/">LinkedIn</a> 💼
 
 <p align='center'>
-    <img src="https://gidigi.com/cdn/love.gif" width='1920' height='180'>
+    <img src="https://gidigi.com/cdn/love.gif" width='1920' height='300'>
 </p>
 
 <a href="https://github-readme-stats.vercel.app/api?username=birrahaile&count_private=true&show_icons=true&theme=chartreuse-dark">
