@@ -9,7 +9,7 @@ I'm a software engineer who is passionate about making contributing to open-sour
 - Tinkering with interactions on <a href="https://codepen.io/birrahaile"> Codepen</a> 🏓
 - Sharing updates on <a href="https://www.linkedin.com/in/birra-haile-37799981/">LinkedIn</a> 💼
 
-<p align='center'>
+<p align='center' width="150">
     <img src="https://gidigi.com/cdn/love.gif">
 </p>
 
